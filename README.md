@@ -1,4 +1,4 @@
-# Hi there, I'm Quoc Khanh! 👋
+# Hi there, I'm Le Truong Lan Anh! 👋
 
 ## 🚀 About Me
 - 🔭 I'm currently working on awesome projects.

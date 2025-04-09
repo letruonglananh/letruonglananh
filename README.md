@@ -16,7 +16,7 @@
 - 🔧 **Tools**: Git, Fish Shell, Linux
 
 ## 🔗 Connect with Me
-[![Facebook](https://shields.io/badge/Facebook-Ph%E1%BA%A1m%20Ng%E1%BB%8Dc%20Qu%E1%BB%91c%20Kh%C3%A1nh-blue?logo=facebook&style=plastic)](https://facebook.com/letruonglananh)  
+[![Facebook](https://shields.io/badge/Facebook-L%C3%AA%20Tr%C6%B0%C6%A1ng%20Lan%20Anh-blue?logo=facebook&style=plastic)](https://facebook.com/letruonglananh)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=letruonglananh&color=blue&style=flat)
 
